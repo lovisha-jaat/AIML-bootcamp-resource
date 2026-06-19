@@ -35,24 +35,34 @@ This repository serves as a centralized collection of:
 ## 📁 Repository Structure
 
 ```text
+```text
 AI-ML-Bootcamp-Resources/
 │
-├── Notes/
-│   ├── Python
-│   ├── Machine Learning
-│   ├── AI Fundamentals
+├── 📂 Notes/
+│   ├── 🐍 Python/
+│   ├── 🤖 Machine Learning/
+│   └── 🧠 AI Fundamentals/
 │
-├── Assignments/
+├── 📂 Assignments/
+│   └── Bootcamp assignments and solutions
 │
-├── Practice/
+├── 📂 Practice/
+│   └── Practice problems and coding exercises
 │
-├── Datasets/
+├── 📂 Datasets/
+│   └── Sample datasets used in projects and assignments
 │
-├── Projects/
+├── 📂 Projects/
+│   └── End-to-end AI & ML projects
 │
-├── Presentations/
+├── 📂 Presentations/
+│   └── Slides and presentation materials
 │
-└── Resources/
+├── 📂 Resources/
+│   └── Books, cheat sheets, articles, and useful links
+│
+└── 📄 README.md
+```
 ```
 
 ---
